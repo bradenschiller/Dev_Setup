@@ -1,0 +1,10 @@
+[alias]
+	s = status
+	sm = stash save -u
+	co = checkout
+	ca = add . && commit -m
+	del = branch -d
+	publish = push --set-upstream origin $(git rev-parse — abbrev-ref HEAD)
+	undo=reset HEAD~
+logline= log --oneline
+	del = branch -D
