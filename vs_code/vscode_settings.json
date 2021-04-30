@@ -1,0 +1,102 @@
+{
+  "workbench.colorCustomizations": {
+    "statusBar.noFolderBackground": "#1DA1F2",
+    "statusBar.foreground": "#ffffff"
+  },
+  "editor.wordWrap": "on",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "editor.tokenColorCustomizations": {
+    "comments": "#0099cb"
+  },
+  "breadcrumbs.enabled": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "python.pythonPath": "/anaconda3/bin/python",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "liveServer.settings.donotVerifyTags": true,
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "backgroundColor": "transparent"
+    },
+    {
+      "tag": "?",
+      "color": "#AC1CF4",
+      "strikethrough": false,
+      "backgroundColor": "transparent"
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "backgroundColor": "transparent"
+    },
+    {
+      "tag": "todo",
+      "color": "#FF8C00",
+      "strikethrough": false,
+      "backgroundColor": "transparent"
+    },
+    {
+      "tag": "*",
+      "color": "#9CFC9C",
+      "strikethrough": false,
+      "backgroundColor": "transparent"
+    }
+  ],
+  "sync.gist": "",
+  "editor.tabSize": 2,
+  "files.trimTrailingWhitespace": true,
+  "git.confirmSync": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "400",
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.maxColumn": 200,
+  "editor.minimap.showSlider": "always",
+  "editor.renderWhitespace": "none",
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": true,
+  "files.insertFinalNewline": true,
+  "newFile.defaultFileExtension": ".js",
+  "newFile.showPathRelativeTo": "project",
+  "editor.lineHeight": 25,
+  "editor.letterSpacing": 0.6,
+  "workbench.editor.highlightModifiedTabs": true,
+  "vim.easymotion": true,
+  "vim.leader": "<space>",
+  "todo-tree.highlights.defaultHighlight": {
+    "foreground": "green",
+    "type": "none"
+  },
+  "todo-tree.filtering.excludedWorkspaces": ["node_modules"],
+  "todo-tree.filtering.excludeGlobs": ["node_modules"],
+  "oneDarkPro.editorTheme": "solarizedFlat",
+  "cSpell.userWords": ["goco"],
+  "keyboard.dispatch": "keyCode",
+  "todo-tree.tree.showScanModeButton": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "terminal.integrated.fontSize": 18,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.cursorWidth": 3,
+  "terminal.integrated.rendererType": "dom",
+  "editor.formatOnSaveMode": "modifications",
+  "gitlens.views.commits.files.layout": "list",
+  "editor.fontSize": 20,
+  "editor.fontFamily": "Ubuntu Mono",
+  "terminal.integrated.fontFamily": "monospace",
+  "editor.inlineHints.fontFamily": "Ubuntu Mono",
+  "window.zoomLevel": -1,
+  "workbench.colorTheme": "Super One Dark"
+}
