@@ -8,6 +8,8 @@
 * Zoom
 * 1password
 * Alfred 4
+* Dropzone
+* Imazing
 
 ## Programming Specific
 * Visual Studio Code
