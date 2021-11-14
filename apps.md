@@ -2,36 +2,37 @@
 
 ## Main Applications
 * Notion
-* TickTick
+* Things 3
 * Magnet
 * Slack
 * Zoom
 * 1password
 * Alfred 4
-* Dropzone
-* Imazing
+* Dropzone (later)
+* Ticktick (later)
+* Be Focused Pro
+* Gestimer
 
 ## Programming Specific
 * Visual Studio Code
 * GitKraken
 * Item2
 * Docker
+* Postman
+* PSQL
 
 ## Chrome Extensions
 * 1password
 * AdBlock
 * Allow-Control-Allow-Origin: *
-* Devtools Theme
 * Notion web clipper
-* Tab Search
 * React Dev Tools
 * YouTube NonStop
-* Material Devtools Theme Collection
 
 ## Things to install on terminal
+* Xcode tools
 * Homebrew
-* Node Package Manager
-* NodeJS
-* Git (if needed)
+* NVM
+* Git
 * Zsh
 * NeoVim
