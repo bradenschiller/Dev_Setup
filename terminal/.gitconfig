@@ -6,5 +6,5 @@
 	del = branch -d
 	publish = push --set-upstream origin $(git rev-parse — abbrev-ref HEAD)
 	undo=reset HEAD~
-logline= log --oneline
+	logline= log --oneline
 	del = branch -D
