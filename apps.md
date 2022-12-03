@@ -2,21 +2,23 @@
 
 ## Main Applications
 * Notion
-* Things 3
 * Magnet
 * Slack
 * Zoom
 * 1password
-* Alfred 4
-* Dropzone (later)
-* Ticktick (later)
-* Be Focused Pro
+* Alfred 5
+* Ticktick
 * Gestimer
+* Cleanshot
+* Hoovly
+* Bartender
+* AltTab
+* Arc Browser
 
 ## Programming Specific
 * Visual Studio Code
 * GitKraken
-* Item2
+* Warp
 * Docker
 * Postman
 * PSQL
